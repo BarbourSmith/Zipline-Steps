@@ -26,8 +26,8 @@
         {
             "atomType": "Molecule",
             "name": "Bars bar of chocolate that doesn’t have any segments for some reason",
-            "x": 0.14790419161676646,
-            "y": 0.16705336426914155,
+            "x": 0.15508982035928143,
+            "y": 0.17633410672853828,
             "uniqueID": "a6fade02-560c-4bbe-9053-c088045c2fa7",
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -478,8 +478,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "2x6 in MM",
-                    "x": 0.2377245508982036,
-                    "y": 0.8051044083526682,
+                    "x": 0.23353293413173654,
+                    "y": 0.814385150812065,
                     "uniqueID": "23d571dd-29f8-4f57-a063-babbea51eb0d",
                     "ioValues": [
                         {
@@ -757,8 +757,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.5790419161676646,
-                    "y": 0.8120649651972157,
+                    "x": 0.5736526946107784,
+                    "y": 0.8167053364269142,
                     "uniqueID": "4fbe6b79-5dd3-44db-a6bb-c97c6e3b474b",
                     "ioValues": [
                         {
@@ -1024,8 +1024,8 @@
         {
             "atomType": "Molecule",
             "name": "Bars bar of chocolate that doesn’t have any segments for some reason",
-            "x": 0.11736526946107784,
-            "y": 0.4524361948955916,
+            "x": 0.11556886227544909,
+            "y": 0.4547563805104408,
             "uniqueID": "ea800cb8-eb00-4b78-8e83-71bea4e1e723",
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1161,8 +1161,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "2x6 in MM",
-                    "x": 0.23293413173652694,
-                    "y": 0.3967517401392111,
+                    "x": 0.23532934131736524,
+                    "y": 0.39443155452436196,
                     "uniqueID": "c92390c4-52ce-4461-9a9d-afcf5ba32ee1",
                     "ioValues": [
                         {
@@ -1588,14 +1588,14 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "2x6 in MM",
-                    "x": 0.2377245508982036,
-                    "y": 0.8051044083526682,
+                    "x": 0.24191616766467067,
+                    "y": 0.8167053364269142,
                     "uniqueID": "706872c6-fd71-4876-a0e9-0ab75e45bd30",
                     "ioValues": [
                         {
                             "name": "Input (1)",
-                            "ioValue": 954.8,
-                            "currentEquation": "12*25.4+650"
+                            "ioValue": 914.4,
+                            "currentEquation": "36*25.4"
                         }
                     ],
                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1650,7 +1650,7 @@
                                 },
                                 {
                                     "name": "height",
-                                    "ioValue": 954.8,
+                                    "ioValue": 914.4,
                                     "currentEquation": null
                                 }
                             ],
@@ -1785,8 +1785,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.5317365269461077,
-                    "y": 0.2691415313225058,
+                    "x": 0.5293413173652695,
+                    "y": 0.32946635730858465,
                     "uniqueID": "971d3cc2-7553-49d9-bbe4-ec94b740c21d",
                     "ioValues": [
                         {
@@ -1796,8 +1796,8 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 650,
-                            "currentEquation": "650"
+                            "ioValue": 610,
+                            "currentEquation": "610"
                         },
                         {
                             "name": "yDist",
@@ -2476,14 +2476,14 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "2x6 in MM",
-                    "x": 0.2377245508982036,
-                    "y": 0.8306264501160092,
+                    "x": 0.2461077844311377,
+                    "y": 0.8399071925754061,
                     "uniqueID": "cf250bac-4dea-4344-9c40-e24d97ac8e3b",
                     "ioValues": [
                         {
                             "name": "Input (1)",
-                            "ioValue": 1304.8,
-                            "currentEquation": "12*25.4+1000"
+                            "ioValue": 1219.1999999999998,
+                            "currentEquation": "48*25.4"
                         }
                     ],
                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -2538,7 +2538,7 @@
                                 },
                                 {
                                     "name": "height",
-                                    "ioValue": 1304.8,
+                                    "ioValue": 1219.1999999999998,
                                     "currentEquation": null
                                 }
                             ],
