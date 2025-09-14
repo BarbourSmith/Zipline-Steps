@@ -1882,8 +1882,8 @@
         {
             "atomType": "Molecule",
             "name": "Bars bar of chocolate that doesn’t have any segments for some reason",
-            "x": 0.14251497005988023,
-            "y": 0.8607888631090488,
+            "x": 0.14730538922155686,
+            "y": 0.8561484918793504,
             "uniqueID": "069277c5-2ceb-4d73-afe5-6cff72d474e6",
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -2019,8 +2019,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.5341317365269461,
-                    "y": 0.29698375870069604,
+                    "x": 0.5401197604790419,
+                    "y": 0.28538283062645015,
                     "uniqueID": "6a37130f-ff6e-4a32-acd3-3e5cd552c3d4",
                     "ioValues": [
                         {
@@ -2030,8 +2030,8 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 1000,
-                            "currentEquation": "1000"
+                            "ioValue": 910,
+                            "currentEquation": "910"
                         },
                         {
                             "name": "yDist",
@@ -2740,8 +2740,8 @@
         {
             "atomType": "Molecule",
             "name": "Vertical Supports",
-            "x": 0.47664670658682634,
-            "y": 0.8747099767981439,
+            "x": 0.48083832335329346,
+            "y": 0.8700696055684455,
             "uniqueID": "f6f10c71-c32f-4d89-a33c-8473518d05c8",
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -3373,8 +3373,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.46946107784431135,
-                    "y": 0.728538283062645,
+                    "x": 0.46407185628742514,
+                    "y": 0.7215777262180975,
                     "uniqueID": "95148bc3-316e-4720-b43a-6a65763ca7a1",
                     "ioValues": [
                         {
@@ -3384,8 +3384,8 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 812.8,
-                            "currentEquation": "32*25.4"
+                            "ioValue": 762,
+                            "currentEquation": "30*25.4"
                         },
                         {
                             "name": "yDist",
@@ -3414,8 +3414,8 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 812.8,
-                            "currentEquation": "32*25.4"
+                            "ioValue": 762,
+                            "currentEquation": "30*25.4"
                         },
                         {
                             "name": "yDist",
