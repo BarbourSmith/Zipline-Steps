@@ -1,0 +1,16 @@
+{
+    "atomType": "Molecule",
+    "name": "Zipline Steps",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "ab84c2d6-7ade-4f2c-a8aa-ccd2e96e72ac",
+    "ioValues": [],
+    "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
