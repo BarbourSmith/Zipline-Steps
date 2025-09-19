@@ -410,7 +410,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "ba68be25-8aa8-4296-85fb-588b9cc047e4",
                             "ioValues": [],
@@ -457,6 +457,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "b9d66e87-db68-46c6-bf25-6908068e7dea",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
@@ -607,7 +627,7 @@
                         {
                             "atomType": "Input",
                             "name": "Number",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.32869080779944293,
                             "uniqueID": "fd5ff2eb-f10a-4a5f-868e-a335bccae3fa",
                             "ioValues": [],
@@ -617,7 +637,7 @@
                         {
                             "atomType": "Input",
                             "name": "Geometry",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.9108635097493036,
                             "uniqueID": "9c2d46ed-f93e-401b-965e-3c1d23fb2e22",
                             "ioValues": [],
@@ -664,7 +684,7 @@
                         {
                             "atomType": "Input",
                             "name": "distX",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.5,
                             "uniqueID": "01d80303-b61f-4f5b-958a-7d9ecad4b793",
                             "ioValues": [],
@@ -674,7 +694,7 @@
                         {
                             "atomType": "Input",
                             "name": "distY",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.6174698795180722,
                             "uniqueID": "81ccacd3-a0c0-441b-9326-81cc5666fade",
                             "ioValues": [],
@@ -684,7 +704,7 @@
                         {
                             "atomType": "Input",
                             "name": "distZ",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.7650602409638555,
                             "uniqueID": "c8ca68bb-45f6-4618-8ab9-0e559e8bc618",
                             "ioValues": [],
@@ -837,7 +857,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "ad241ad4-3c72-4071-bad8-fe3e08cc8136",
                             "ioValues": [],
@@ -884,6 +904,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "9ad5cbca-73ea-4b46-a891-146bdb014c21",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
@@ -1262,7 +1302,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "ba68be25-8aa8-4296-85fb-588b9cc047e4",
                             "ioValues": [],
@@ -1309,6 +1349,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "b9d66e87-db68-46c6-bf25-6908068e7dea",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
@@ -1459,7 +1519,7 @@
                         {
                             "atomType": "Input",
                             "name": "Number",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.32869080779944293,
                             "uniqueID": "fd5ff2eb-f10a-4a5f-868e-a335bccae3fa",
                             "ioValues": [],
@@ -1469,7 +1529,7 @@
                         {
                             "atomType": "Input",
                             "name": "Geometry",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.9108635097493036,
                             "uniqueID": "9c2d46ed-f93e-401b-965e-3c1d23fb2e22",
                             "ioValues": [],
@@ -1516,7 +1576,7 @@
                         {
                             "atomType": "Input",
                             "name": "distX",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.5,
                             "uniqueID": "01d80303-b61f-4f5b-958a-7d9ecad4b793",
                             "ioValues": [],
@@ -1526,7 +1586,7 @@
                         {
                             "atomType": "Input",
                             "name": "distY",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.6174698795180722,
                             "uniqueID": "81ccacd3-a0c0-441b-9326-81cc5666fade",
                             "ioValues": [],
@@ -1536,7 +1596,7 @@
                         {
                             "atomType": "Input",
                             "name": "distZ",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.7650602409638555,
                             "uniqueID": "c8ca68bb-45f6-4618-8ab9-0e559e8bc618",
                             "ioValues": [],
@@ -1689,7 +1749,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "ad241ad4-3c72-4071-bad8-fe3e08cc8136",
                             "ioValues": [],
@@ -1736,6 +1796,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "9ad5cbca-73ea-4b46-a891-146bdb014c21",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
@@ -2120,7 +2200,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "ba68be25-8aa8-4296-85fb-588b9cc047e4",
                             "ioValues": [],
@@ -2167,6 +2247,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "b9d66e87-db68-46c6-bf25-6908068e7dea",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
@@ -2317,7 +2417,7 @@
                         {
                             "atomType": "Input",
                             "name": "Number",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.32869080779944293,
                             "uniqueID": "fd5ff2eb-f10a-4a5f-868e-a335bccae3fa",
                             "ioValues": [],
@@ -2327,7 +2427,7 @@
                         {
                             "atomType": "Input",
                             "name": "Geometry",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.9108635097493036,
                             "uniqueID": "9c2d46ed-f93e-401b-965e-3c1d23fb2e22",
                             "ioValues": [],
@@ -2374,7 +2474,7 @@
                         {
                             "atomType": "Input",
                             "name": "distX",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.5,
                             "uniqueID": "01d80303-b61f-4f5b-958a-7d9ecad4b793",
                             "ioValues": [],
@@ -2384,7 +2484,7 @@
                         {
                             "atomType": "Input",
                             "name": "distY",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.6174698795180722,
                             "uniqueID": "81ccacd3-a0c0-441b-9326-81cc5666fade",
                             "ioValues": [],
@@ -2394,7 +2494,7 @@
                         {
                             "atomType": "Input",
                             "name": "distZ",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.7650602409638555,
                             "uniqueID": "c8ca68bb-45f6-4618-8ab9-0e559e8bc618",
                             "ioValues": [],
@@ -2547,7 +2647,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "ad241ad4-3c72-4071-bad8-fe3e08cc8136",
                             "ioValues": [],
@@ -2594,6 +2694,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "9ad5cbca-73ea-4b46-a891-146bdb014c21",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
@@ -3110,7 +3230,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "a0ef6bd0-9dd1-4989-948e-3a28e28f84f4",
                             "ioValues": [],
@@ -3157,6 +3277,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "69f34d19-5d8b-4c11-ab10-7290d56bb170",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
@@ -3307,7 +3447,7 @@
                         {
                             "atomType": "Input",
                             "name": "Input (1)",
-                            "x": 0.07755,
+                            "x": 0.029699999999999997,
                             "y": 0.4830287206266318,
                             "uniqueID": "097aee38-4065-4fac-a4d2-fb24ba9e072e",
                             "ioValues": [],
@@ -3354,6 +3494,26 @@
                                 {
                                     "name": "geometry",
                                     "ioValue": "77433716-d5a0-4dce-b2e5-b392ee334906",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Item Name",
+                                    "ioValue": "New Item",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Number Needed",
+                                    "ioValue": 1,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Cost (USD)",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "Source Link",
+                                    "ioValue": "",
                                     "currentEquation": null
                                 }
                             ],
